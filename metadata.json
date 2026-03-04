@@ -1,0 +1,5 @@
+{
+  "name": "Character Replacement Ref-Frame Generator",
+  "description": "A professional tool for batch generating character replacement reference frames from video using AI and computer vision, featuring intelligent keyframe extraction and character asset generation.",
+  "requestFramePermissions": []
+}
